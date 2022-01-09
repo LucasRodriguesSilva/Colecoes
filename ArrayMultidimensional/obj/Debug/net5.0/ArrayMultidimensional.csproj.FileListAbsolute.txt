@@ -1,0 +1,16 @@
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/bin/Debug/net5.0/ArrayMultidimensional
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/bin/Debug/net5.0/ArrayMultidimensional.deps.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/bin/Debug/net5.0/ArrayMultidimensional.runtimeconfig.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/bin/Debug/net5.0/ArrayMultidimensional.runtimeconfig.dev.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/bin/Debug/net5.0/ArrayMultidimensional.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/bin/Debug/net5.0/ref/ArrayMultidimensional.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/bin/Debug/net5.0/ArrayMultidimensional.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ArrayMultidimensional.csproj.AssemblyReference.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ArrayMultidimensional.AssemblyInfoInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ArrayMultidimensional.AssemblyInfo.cs
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ArrayMultidimensional.csproj.CoreCompileInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ArrayMultidimensional.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ref/ArrayMultidimensional.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ArrayMultidimensional.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/ArrayMultidimensional/obj/Debug/net5.0/ArrayMultidimensional.genruntimeconfig.cache
