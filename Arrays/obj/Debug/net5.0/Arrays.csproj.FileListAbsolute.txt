@@ -14,3 +14,19 @@
 /Users/lucasrodriguesdasilva/Colecoes/Arrays/obj/Debug/net5.0/ref/Arrays.dll
 /Users/lucasrodriguesdasilva/Colecoes/Arrays/obj/Debug/net5.0/Arrays.pdb
 /Users/lucasrodriguesdasilva/Colecoes/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/bin/Debug/net5.0/Arrays
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/bin/Debug/net5.0/Arrays.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/bin/Debug/net5.0/ref/Arrays.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/bin/Debug/net5.0/Arrays.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/Arrays.csproj.AssemblyReference.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/Arrays.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/ref/Arrays.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/Arrays.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache

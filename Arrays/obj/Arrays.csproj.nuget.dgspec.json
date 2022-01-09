@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucasrodriguesdasilva/Colecoes/Arrays/Arrays.csproj": {}
+    "/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/Arrays.csproj": {}
   },
   "projects": {
-    "/Users/lucasrodriguesdasilva/Colecoes/Arrays/Arrays.csproj": {
+    "/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucasrodriguesdasilva/Colecoes/Arrays/Arrays.csproj",
+        "projectUniqueName": "/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "/Users/lucasrodriguesdasilva/Colecoes/Arrays/Arrays.csproj",
+        "projectPath": "/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/Arrays.csproj",
         "packagesPath": "/Users/lucasrodriguesdasilva/.nuget/packages/",
-        "outputPath": "/Users/lucasrodriguesdasilva/Colecoes/Arrays/obj/",
+        "outputPath": "/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Colecoes/Arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucasrodriguesdasilva/.nuget/NuGet/NuGet.Config"
